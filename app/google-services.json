@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070126768915",
+    "project_id": "stanger-b4fdb",
+    "storage_bucket": "stanger-b4fdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070126768915:android:2a886a7c45a639758bf0e6",
+        "android_client_info": {
+          "package_name": "com.example.videocallingusingwebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070126768915-9u76c7sbtsvevhvrm7a82oabq828uce1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.videocallingusingwebrtc",
+            "certificate_hash": "b495354badf3e758fcf035e0032bd1c97615d3be"
+          }
+        },
+        {
+          "client_id": "1070126768915-ecur4k2jbcss09korm53ddgqoiab7erh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cKGNGzkwM9I1d9ZWR4RN1lyBfkwZrXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070126768915-ecur4k2jbcss09korm53ddgqoiab7erh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

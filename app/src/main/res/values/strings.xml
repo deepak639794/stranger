@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VideoCallingUsingWebRtc</string>
+    <string name="random_video_call">Random Video Call</string>
+    <string name="talk_with_random_poeple_all_around_the_globe">Talk with random poeple all around the globe</string>
+    <string name="get_started">Get Started</string>
+    <string name="sign_up_to_get_started">Sign up to get started</string>
+    <string name="sign_up">Sign UP Using Google</string>
+    <string name="join">Join</string>
+    <string name="find">Find</string>
+    <string name="finding"><b>FINDING A PERFECT MATCH FOR YOU</b></string>
+    <string name="signout">SignOut</string>
+    <string name="password">password</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email_id">Enter Your Email id</string>
+    <string name="enter_password">Enter password</string>
+    <string name="login">Login</string>
+</resources>
